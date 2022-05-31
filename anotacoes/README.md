@@ -1,0 +1,1 @@
+os arquivos apresentados aqui não têm pretensão didática, pois são anotações pessoais. logo, as sintaxes, simbologias e legendas também são estritamente pessoais e usadas para minha própria compreensão. em breve, pretendo atualizar e tornar esse espaço o mais didático possível para que outras pessoas iniciantes assim como eu, possam utilizar para o aprendizado ! 

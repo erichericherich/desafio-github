@@ -1,0 +1,3 @@
+[submodule "livro-receitas"]
+	path = livro-receitas
+	url = https://github.com/erichericherich/livro-receitas
