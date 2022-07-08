@@ -1,1 +1,0 @@
-< espaço destinado a exercícios e experimentações<br>usando git bash e guardando em repositórios remotos no github >
